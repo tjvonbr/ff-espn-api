@@ -4,7 +4,6 @@ import time
 import json
 from typing import List, Tuple
 
-
 from .team import Team
 from .settings import Settings
 from .matchup import Matchup
